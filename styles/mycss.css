@@ -1,82 +1,53 @@
 h1{
-	background-color: white; color: black; 
+	color: white;
 	font-size: 60px; 
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: center;
-	/*this is just a test*/ 
+	text-align: left;
+	padding: 3px;
+	
 }
 body {
     background-image: url("bgr1.png");
     background-repeat: no-repeat;
 }
 
-
-.first{
-	
-	float:left;
-	width: 300px;
-	font-size: 20px;
-	margin: 10px;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #66CC66;
 }
 
-.1{
-	border-style: solid 1px;
+li {
+    float: left;
 }
 
-.second{
-	
-	float: right;
-	width: 300px;
-	font-size: 20px;
-	margin: 10px;
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 20px;
+    text-decoration: none;
+    font-size: 45px; 
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.thrid{
-	
-	float:right;
-	width: 300px;
-	font-size: 20px;
-	margin: 10px;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #99FF66;
 }
 
-.forth{
+.tittle{
+	margin: 0px;
+	padding: 0px;
 
-	float:right;
-	width: 300px;
-	font-size: 20px;
-	margin: 10px;
 }
-
-
 
 .social{
 	float: right;
- 
+	padding: 3px;
 }
-
-.3{
-	float: right;
-	border-style: solid 1px;
-
-
-}
-
-
-.2{
-	float: right;
-	border-style: solid 1px;
-	
-}
-
-
-
-.5{
-	float: right;
-	border-style: solid 1px;
-}
-
-
-
 
 
 
