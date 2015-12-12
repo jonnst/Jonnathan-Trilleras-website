@@ -1,11 +1,4 @@
-h1{
-	color: white;
-	font-size: 60px; 
-	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: left;
-	padding: 3px;
-	
-}
+
 body {
     background-image: url("bgr1.png");
     background-repeat: no-repeat;
@@ -17,17 +10,19 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #66CC66;
+    height: 68px;
 }
 
 li {
     float: left;
+    height: 68px;
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 7px 20px;
+    padding: 0px 20px;
     text-decoration: none;
     font-size: 45px; 
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -35,19 +30,66 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #99FF66;
-}
-
-.tittle{
-	margin: 0px;
-	padding: 0px;
+    background-color: #808080;
+     height: 68px;
 
 }
 
 .social{
-	float: right;
-	padding: 3px;
+	padding-left: 1450px;
 }
+
+.tittle{
+	margin: 0px;
+
+
+}
+
+h1{
+	color: white;
+	font-size: 80px; 
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: left;
+	border: 1px;
+	padding: 1px;
+	margin: 5px 0;
+	
+}
+
+.mainimg{
+	padding: 1px;
+}
+
+.maintxt{
+	font-size: 40px; 
+	font-family: 'Open Sans Condensed', sans-serif;
+	float: left;
+	width: 800px;
+    padding: 30px;
+    margin: 5px;
+    color: white;
+
+}
+
+.2img{
+	float: right;
+    padding: 30px;
+    margin: 5px;
+    border-radius: 30px;
+    display: inline-block;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
