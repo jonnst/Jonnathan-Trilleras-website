@@ -1,0 +1,39 @@
+body {
+    background-image: url("bgr1.png");
+    background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #66CC66;
+    height: 68px;
+}
+
+li {
+    float: left;
+    height: 68px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 20px;
+    text-decoration: none;
+    font-size: 45px; 
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #808080;
+     height: 68px;
+
+}
+
+.social{
+	padding-left: 1450px;
+}

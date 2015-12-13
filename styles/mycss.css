@@ -114,3 +114,49 @@ height:180px;
     font-size: 20px;
 
 }
+
+.about{
+    font-size: 40px; 
+    font-family: 'Open Sans Condensed', sans-serif;
+    float: left;
+    width: 800px;
+    padding: 30px;
+    margin: 5px;
+    color: white;
+
+}
+
+.aboutimg{
+
+    float: left;
+    width: 700px;
+    padding: 30px;
+    margin: 5px;
+    color: white;
+
+}
+
+.aboutimg2{
+
+    float: right;
+    width: 700px;
+    padding: 55px;
+    margin: 5px;
+    color: white;
+
+}
+
+.about2{
+    font-size: 40px; 
+    font-family: 'Open Sans Condensed', sans-serif;
+    float: right;
+    width: 800px;
+    padding: 30px;
+    margin: 5px;
+    color: white;
+
+}
+
+
+
+
