@@ -51,7 +51,7 @@ h1{
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: left;
 	border: 1px;
-	padding: 1px;
+	padding: 0px 30px;
 	margin: 5px 0;
 	
 }
@@ -71,25 +71,46 @@ h1{
 
 }
 
-.2img{
-	float: right;
-    padding: 30px;
-    margin: 5px;
-    border-radius: 30px;
-    display: inline-block;
-   
+
+form    {
+
+margin:auto;
+position:relative;
+width:800px;
+height:750px;
+font-family:'Open Sans Condensed', sans-serif;
+font-size: 30px;
+display: block;
+color: 	#66CC66;
+text-decoration: none;
+padding:10px;
+
 }
 
+input    {
+width:375px;
+display:block;
+border: 1px solid #999;
+height: 25px;
+font-size: 22px;
+
+}
+
+textarea#feedback {
+width:375px;
+height:180px;
 
 
+}
 
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
 
-
-
-
-
-
-
-
-
-
+}
