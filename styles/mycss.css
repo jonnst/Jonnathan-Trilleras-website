@@ -71,6 +71,16 @@ h1{
 
 }
 
+.maintxt3{
+    font-size: 40px; 
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 1500px;
+    float: right;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+
+}
 
 form    {
 
@@ -159,4 +169,64 @@ height:180px;
 
 
 
+
+.jd{
+   
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    width: 0px;
+    padding: 10px;
+    color: white;
+
+}
+
+
+.sg{
+   
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    width: 10px;
+    padding: 10px;
+    
+    color: white;
+
+}
+
+.qr{
+   
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    width: 10px;
+    padding: 10px;
+  
+    color: white;
+
+}
+
+.tp{
+   
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    width: 10px;
+    padding: 10px;
+   
+    color: white;
+
+}
+
+.mb{
+   
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    width: 10px;
+    padding: 10px;
+
+    color: white;
+
+}
 
